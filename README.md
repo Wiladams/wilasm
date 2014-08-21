@@ -10,7 +10,7 @@ Books
 
 [ARM Assembly Language - an Introduction](http://www.amazon.com/Arm-Assembly-Language-An-Introduction/dp/1847536964) 
 
-1. J.R. Gibson
+- J.R. Gibson
 
 [ARM System Developer's Guide](http://www.amazon.com/ARM-System-Developers-Guide-Architecture/dp/1558608745)
 Designing and Optimizing System Software
