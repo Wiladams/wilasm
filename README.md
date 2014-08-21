@@ -15,14 +15,14 @@ Books
 [ARM System Developer's Guide](http://www.amazon.com/ARM-System-Developers-Guide-Architecture/dp/1558608745)
 Designing and Optimizing System Software
 
-1. Andrew N. Sloss
-2. Dominic Symes
-3. Chris Wright
+- Andrew N. Sloss
+- Dominic Symes
+- Chris Wright
 
 [ARM System-on-chip architecture](http://www.amazon.com/gp/product/0201675196/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1535523722&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1558608745&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0J3EQZP0RPXW8Z2KR9M6) (second edition)
 
-1. Steve Furber
+- Steve Furber
 
 [Constructing Language Processors for Little Languages](http://www.amazon.com/Constructing-Language-Processors-Little-Languages/dp/0471597538/ref=cm_cr_pr_product_top)
 
-1. Randy M. Kaplan
+- Randy M. Kaplan
