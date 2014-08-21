@@ -76,9 +76,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="bitter.h" />
     <ClInclude Include="formats.h" />
     <ClInclude Include="hardware.h" />
