@@ -6,6 +6,7 @@
 #include "bitter.h"
 #include "streamer.h"
 #include "tokenizer.h"
+#include "hardware.h"
 
 #include <stdio.h>
 #include <string.h>
@@ -106,8 +107,6 @@ char *program2 =
 
 void test_tokenizer(char *inputstr)
 {
-
-
 	int inputstrlen = strlen(inputstr);
 
 	char *ptr = inputstr;
@@ -136,13 +135,21 @@ void test_tokenizer(char *inputstr)
 
 }
 
+void test_constants()
+{
+	printf("Modes:\n");
+	printf("  Abort: %d\n", CPSR_MODE_abt);
+
+}
+
 int _tmain(int argc, _TCHAR* argv[])
 {
 	//test_16bit();
 	//test_endian();
 	//test_streamer();
 	//test_tokenizer(program1);
-	test_tokenizer(program2);
+	//test_tokenizer(program2);
+	test_constants();
 
 	return 0;
 }

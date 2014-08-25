@@ -1,5 +1,14 @@
 // mnemonic.h
+enum {
+	LSL,
+	LSR,
+	ASR,
+	ADD,
+	SUB,
+	MOV,
+	CMP,
 
+};
 /*
 ADC
 ADD
@@ -36,3 +45,4 @@ STRH	// Store halfword
 SWI	// Software Interrupt
 SUB	// Subtract
 TST	// Test bits
+*/

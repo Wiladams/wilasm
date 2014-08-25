@@ -22,16 +22,3 @@ unsigned short setbit16(unsigned short value, size_t bit)
 {
 	return (value | (((unsigned short)1) << (bit)));
 }
-
-// Determine whether current machine is bigendian
-// for integer values
-int IsBigEndian()
-{
-	int i = 1;
-	return !*((char *)&i);
-}
-
-bool IsLittleEndian()
-{
-	return !IsBigEndian();
-}
